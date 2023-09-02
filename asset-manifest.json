@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/E:/PLATZI/REACT/1.%20PRIMER%20CURSO%20DE%20REACT/app-todo/build/static/css/main.f2eb8e07.css",
-    "main.js": "/E:/PLATZI/REACT/1.%20PRIMER%20CURSO%20DE%20REACT/app-todo/build/static/js/main.5d540edf.js",
-    "index.html": "/E:/PLATZI/REACT/1.%20PRIMER%20CURSO%20DE%20REACT/app-todo/build/index.html",
-    "static/media/delete.svg": "/E:/PLATZI/REACT/1.%20PRIMER%20CURSO%20DE%20REACT/app-todo/build/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
-    "static/media/check.svg": "/E:/PLATZI/REACT/1.%20PRIMER%20CURSO%20DE%20REACT/app-todo/build/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
-    "main.f2eb8e07.css.map": "/E:/PLATZI/REACT/1.%20PRIMER%20CURSO%20DE%20REACT/app-todo/build/static/css/main.f2eb8e07.css.map",
-    "main.5d540edf.js.map": "/E:/PLATZI/REACT/1.%20PRIMER%20CURSO%20DE%20REACT/app-todo/build/static/js/main.5d540edf.js.map"
+    "main.css": "/project_todo/static/css/main.f2eb8e07.css",
+    "main.js": "/project_todo/static/js/main.c26d2b91.js",
+    "index.html": "/project_todo/index.html",
+    "static/media/delete.svg": "/project_todo/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
+    "static/media/check.svg": "/project_todo/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
+    "main.f2eb8e07.css.map": "/project_todo/static/css/main.f2eb8e07.css.map",
+    "main.c26d2b91.js.map": "/project_todo/static/js/main.c26d2b91.js.map"
   },
   "entrypoints": [
     "static/css/main.f2eb8e07.css",
-    "static/js/main.5d540edf.js"
+    "static/js/main.c26d2b91.js"
   ]
 }
