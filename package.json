@@ -11,7 +11,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "prodeploy":"npm run build",
+    "deploy":"gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -30,5 +32,12 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "file:///E:/PLATZI/REACT/1.%20PRIMER%20CURSO%20DE%20REACT/app-todo/build/"
+  "homepage": "https://universitarioroy.github.io/project_todo",
+  
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+
+  
+
 }

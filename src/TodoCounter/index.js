@@ -11,9 +11,9 @@ function TodoCounter(){
 
     let out;
     if(concluido){
-        out=<h1 className="todoCounter">Haz completado todo los TODOS</h1>
+        out=<h1 className="todoCounter">Ha completado todo los TODOS</h1>
     }else{
-        out=<h1 className="todoCounter">Haz completado <span> {todoCompleted}</span> de <span>{totalTodo}</span> TODOS</h1>
+        out=<h1 className="todoCounter">Ha completado <span> {todoCompleted}</span> de <span>{totalTodo}</span> TODOS</h1>
     }
     return(out);
 }
